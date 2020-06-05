@@ -5,4 +5,7 @@ ice cream
 
 chicken curry
 
+beans
+pizza
+
 Thank you.
